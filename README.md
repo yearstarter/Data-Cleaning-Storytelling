@@ -10,9 +10,13 @@ In addition to offering a wide catalog of products at competitive prices, Eniac 
 Since the company went public, investors have been pushing for Eniac to scale up the business and become a major e-commerce player globally. It goes without saying that it is an arduous challenge to do so while retaining the human side of the business, which is Eniac’s emblem.
 
 Here are some numbers that will help you understand Eniac’s scope (data from April 2017 to March 2018):
+
 - Revenue: 14M EUR
+
 - Avg. monthly revenue: 1,17M EUR
+
 - Avg. order price: 710 EUR
+
 - Avg. item price: 540 EUR
 
 Eniac is exploring an expansion to the Brazilian market. Data shows that Brazil has an eCommerce revenue similar to that of Spain and Italy: an already huge market with an even bigger potential for growth. The problem for Eniac is the lack of knowledge of such a market. The company doesn’t have ties with local providers, package delivery services, or customer service agencies. Creating these ties and knowing the market would take a lot of time, while the board of directors has demanded the expansion to happen within the next year.
