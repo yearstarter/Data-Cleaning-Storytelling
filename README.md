@@ -44,8 +44,11 @@ Analyze, whether or not it’s beneficial to discount products.
 
 ## Skills to develop
 Data Cleaning & Quality
+
 Data Visualization
+
 Data Storytelling
 ## Tools used
 Google Colab
-Python: pandas, seaborn, matplotlib
+
+Python modules: pandas, seaborn, matplotlib
