@@ -1,9 +1,7 @@
 # Data-Cleaning-Storytelling_WBSBootcamp
 ## Project description
 ### Project context
-We are in the summer of 2018. Yes, COVID-19 still does not exist, Donald Trump is the President of the United States, and the world has yet to be amazed by the wonderful capabilities of AI-powered chat agents.
-
-Eniac is an online marketplace specializing in Apple-compatible accessories. It was founded ten years ago in Spain and has since grown and expanded to other neighboring countries.
+We are in the summer of 2018. Eniac is an online marketplace specializing in Apple-compatible accessories. It was founded ten years ago in Spain and has since grown and expanded to other neighboring countries.
 
 In addition to offering a wide catalog of products at competitive prices, Eniac provides friendly and professional tech support and consultation to its customers. The warmhearted spirit that thrives with direct contact with the customers is at the core of the company.
 
